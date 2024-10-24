@@ -17,7 +17,6 @@
     </li>
     <b><li>
         Subir los archivos al servidor: </b>Esto es esencial para que la web esté accesible a cualquier persona.
-
     </li>
     <b>
     <li><b>Hacer pruebas</b></li>
